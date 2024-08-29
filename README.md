@@ -1,4 +1,5 @@
-Project Title: Bank Marketing Campaign Classification Model
+*Project Title: Bank Marketing Campaign Classification Model
+
 Description:
 This project involves building a classification model to predict whether a customer will subscribe to a term deposit based on their demographic and past interaction data. The dataset is provided by a large bank aiming to optimize its phone marketing strategy by identifying potential customers who are more likely to subscribe to their term deposits.
 
